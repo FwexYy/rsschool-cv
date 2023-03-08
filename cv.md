@@ -30,6 +30,8 @@ I spare no time and effort in my work. I love difficult tasks that require a lon
 
 ### Skills and Proficiency
 
+- Python
+- Django
 - JavaScript
 - OOP
 - Git, GitHub
