@@ -68,3 +68,10 @@ function fakeBin(str){
 - Courses on the platform [Stepik](https://stepik.org/course/3432/syllabus)
 - Online courses on site [YouTube](https://www.youtube.com/@RollingScopesSchool)
 - Reusable reading [Learn.javascript](https://learn.javascript.ru/)
+
+---
+
+### Languages
+
+- Russian - native speaker.
+- English - A2(B1 in process).
